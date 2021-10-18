@@ -7,7 +7,6 @@ var engine, world;
 var canvas;
 var palyer, playerBase;
 var computer, computerBase;
-var PlayerBase;
 
 
 function setup() {
